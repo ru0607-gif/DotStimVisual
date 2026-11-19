@@ -7,5 +7,7 @@ This code runs a random dot motion task using PsychoPy. Participants see moving 
 The code uses Matplotlib to create three graphs to visualize task performance:
 
 Scatterplot: Shows the relationship between coherence level and reaction time, with colors indicating whether each response was correct or incorrect.
+
 Histogram: Shows the distribution of reaction times.
+
 Bar Graph: Compares the total number of correct and incorrect responses.
